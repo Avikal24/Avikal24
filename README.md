@@ -1,16 +1,60 @@
-## Hi there 👋
+<!-- Banner / Coding Vibes -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="Coding GIF" width="600"/>
+</p>
 
-<!--
-**Avikal24/Avikal24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hey, I'm Avikal Shukla</h1>
+<p align="center">
+  <b>Aspiring Software Engineer | Full Stack Developer | Competitive Programmer</b>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 🎓 B.Tech in Information Technology (2022–2026) at **KIET, Ghaziabad**  
+- 💻 Skilled in **MERN Stack, Data Structures, Algorithms, and System Design**  
+- 🏆 Achieved **Top 0.5% Global Rank (192)** in LeetCode Biweekly Contest 135  
+- 🔥 Passionate about building **scalable web apps & real-time systems**  
+
+---
+
+## 🚀 Tech Stack
+**Languages:** C++, JavaScript, SQL, HTML, CSS  
+**Frameworks/Technologies:** Node.js, Express.js, React.js, Bootstrap, Mongoose, Socket.io  
+**Databases:** MongoDB, MySQL  
+**Developer Tools:** Git, GitHub, Postman, VS Code, MongoDB Compass  
+
+---
+
+## 🌟 Featured Projects
+🔹 [**Realty – Real Estate Web Application**](https://github.com/Avikal24/RealEstate)  
+MERN-based property platform with **JWT Authentication**, **REST APIs**, and **real-time updates via Socket.io**. Optimized backend for **200+ concurrent users**.  
+
+🔹 [**Pollflow – Real-time Polling App**](https://github.com/Avikal24/PollFlow)  
+Real-time polling system with dynamic updates, API integration, and efficient data flow management.  
+
+🔹 [**PashuCare – Veterinary Platform for Farmers**](https://github.com/dipansu1196/PashuCare)  
+A platform to **connect farmers with veterinary doctors** (focused on cows & buffaloes). Includes **OTP login with Firebase**, **Google authentication**, and a user-friendly **React frontend**.  
+
+---
+
+## 🏆 Achievements
+- 🥇 **192 Global Rank (Top 0.5%)** – LeetCode Biweekly Contest 135  
+- 🌍 **Global Ranks 1790 & 1615** – Codeforces Div.2 Rounds 994 & 978  
+- 💡 Specialist (1458) on Codeforces | Knight (1892) on LeetCode  
+- ✨ Certificate of Excellence – Designed Questions for "Code-it" Contest  
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://github.com/Avikal24"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/avikal-shukla-964a62228/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:avikalshukla04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Zorohunter/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/Aetherius"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">⭐️ From <a href="https://github.com/Avikal24">Avikal24</a></p>
